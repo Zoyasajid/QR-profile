@@ -10,7 +10,6 @@ Demo login: `alex@qora.demo` / `demo1234` (or any email + 6-character password).
 npm install
 npm run dev
 ```
-
 Open [http://localhost:3000](http://localhost:3000).
 
 ## Stack
